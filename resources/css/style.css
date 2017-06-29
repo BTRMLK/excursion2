@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  background-color: black;
+  font-family: Arial; sans-serif; /* comp doesnt have verdana */
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 50px;
+  color: white;
+}
+
+h2 {
+  font-size: 42px;
+  color: white;
+}
+
+.cta {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+div.footer {
+  text-align: right;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
